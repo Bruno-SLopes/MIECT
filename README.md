@@ -1,2 +1,2 @@
 # MIECT
-Student of MIECT at University of Aveiro
+Stuff I did on my way through this degree
