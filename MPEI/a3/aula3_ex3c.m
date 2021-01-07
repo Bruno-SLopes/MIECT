@@ -1,0 +1,1 @@
+fprintf('Distribuição de variavel binomial\n')
